@@ -9,5 +9,8 @@ As I study the [Dart programming language](https://www.dartlang.org/), I will ta
 * [Comments](comments.dart) - The different kinds of Dart comments.
 * [Typing](typing.md) - Explanation of the type system Dart uses.
 
+## Errata
+If you find an error in my text or my code, please raise an issue or a pull-request. I have no ego in this matter; I am here to learn.
+
 ## Licensing
 I have not yet decided what kind of licensing I will use on this project. Since these are notes, I'm leaning towards a Creative Commons license of some sort ... but I could easily lean another direction. I'll make the decision once I have more notes in place.
