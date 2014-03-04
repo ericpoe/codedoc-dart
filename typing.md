@@ -21,4 +21,4 @@ variables.
  
 ## Example ##
 
-See (typing.dart)[typing.dart] for an example of this.
+See [typing.dart](typing.dart) for an example of this.
