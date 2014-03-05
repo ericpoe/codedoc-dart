@@ -14,10 +14,10 @@ deductions. Ex. `"4" + 2 == 6`
 * **Dynamic:** Types are implicitly defined. Ex. `num = 5;`
 * **Static:** Types are explicitly defined. Ex. `int num = 5;`
 
-Dart is ["optionally typed."](https://www.dartlang.org/articles/optional-types/) 
-When declaring variables with the "var" keyword, the  variables are dynamic,
-strongly typed variables. When declaring variables of a specific type, the
-variables are treated as static, strongly typed variables.
+Dart is ["optionally typed."](https://www.dartlang.org/articles/optional-types/)
+When declaring variables with the "var" keyword, the  variables are dynamic and
+strongly typed. When declaring variables of a specific type, the variables are
+treated as static and strongly typed.
 
 ## Example ##
 
