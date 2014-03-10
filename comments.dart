@@ -11,10 +11,11 @@
  * to help format the docblock.
  */
 
-/// This is a different kind of Dart Docblock.
+/// This is a different kind of Dart Docblock called a Line Doc.
 ///
-/// I could not find any documentation about it beyond a quick mention of it in
-/// https://www.dartlang.org/docs/spec/latest/dart-language-specification.html#h.gey5ehc2i2ad
+/// According to the [Dart Style
+/// Guide](https://www.dartlang.org/articles/style-guide/#comments), Line Doc is
+/// used like a Docblock but is styled like a single-line comment.
 
 /* This is a
 multi-line
